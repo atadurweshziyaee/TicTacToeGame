@@ -18,6 +18,9 @@ A player wins if they place **three of their marks** in:
 
 ### ✔ Horizontal Row  
 
+X X X
+O O _
+
 ### ✔ Vertical Column  
 X O _
 X O _
